@@ -9,3 +9,8 @@ Testing Framework: TestNG
 Programming Language: Java
 Automation Library: Selenium WebDriver
 API testing: Postman
+
+
+
+ITBC_project-natasadragic - automation
+ITBC_project-other - manual (test plan) + API testing
