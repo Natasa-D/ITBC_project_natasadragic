@@ -1,6 +1,6 @@
 # ITBC_project_natasadragic
 
-This is the final [IT Bootcamp course](https://www.itbootcamp.rs/) project - Software Testing (manual and automation).
+Final [IT Bootcamp course](https://www.itbootcamp.rs/) project - Software Testing (manual and automation).
 
 Website: [demoqa.com](https://demoqa.com/) 
 
